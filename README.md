@@ -13,22 +13,7 @@ This is the code for Music genre classification using Convolutional Neural Netwo
 
 ## Dependencies
 
-* numpy
-
-* pandas
-
-* matplotlib
-
-* scipy
-
-* scikit-learn
-
-* librosa
-
-* keras
-
-* h5py
-
+You can just run ``pip install -r requirements.txt`` in command prompt to install the necessary dependencies.
 
 ## Usage
 
