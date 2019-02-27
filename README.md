@@ -41,4 +41,4 @@ You can just run ``pip install -r requirements.txt`` in command prompt to instal
 |Random Forest      |0.703   |
 |SVM (RBF)   	    |0.762   |
 |CNN 2D   	    |0.822   |
-|VGG16   	    |0.857   |
+|VGG16   	    |0.878   |
