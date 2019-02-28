@@ -26,10 +26,6 @@ For VGG, channel = 3.
 
 You can just run ``pip install -r requirements.txt`` in command prompt to install the necessary dependencies.
 
-## Usage
-
-``$ python gtzan.py -t test -m model/YOUR_MODEL_HERE -s data/YOUR_SONG_HERE``
-
 
 ## Results
 
